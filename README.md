@@ -15,8 +15,6 @@ Before setting up the application, ensure that you have the following requiremen
 
 ## Installation and Running the application
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Python package.
-
 1. Clone the repository to your local machine.
   ```bash
   git clone git@github.com:sunilrai486/embedding.git
@@ -29,6 +27,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Pyt
 
 3. Run the Python Notebook.
   ```bash
+  Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Python package.
+
   You can open the notebook and run it in your VS Code or Jupyter Notebook or upload it to Google Colab.
   a. For local use:
       Please download and place the rotten_tomatoes_movies.csv file in the working directory with the notebook.
