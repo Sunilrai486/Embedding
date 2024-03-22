@@ -31,7 +31,7 @@ Before setting up the application, ensure that you have the following requiremen
 
   You can open the notebook and run it in your VS Code or Jupyter Notebook or upload it to Google Colab.
   a. For local use:
-      Please download and place the rotten_tomatoes_movies.csv file in the working directory with the notebook.
+      Please download and place the rotten_tomatoes_movies.csv file inside "/content/drive/MyDrive/" from the working directory of the notebook.
   b. For Google Colab
       If you are using Google Colab, please upload rotten_tomatoes_movies.csv to Google Drive.
   ```
